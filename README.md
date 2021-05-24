@@ -1,4 +1,4 @@
-### Ayo. 👋
+### 👋 Ayo.
 
 I am a full stack software developer and reverse engineer from New York who is interested in low level programming, memory manipulation, privacy, and security. 
 
