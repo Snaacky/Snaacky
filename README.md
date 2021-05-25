@@ -1,6 +1,6 @@
 ### 👋 Ayo.
 
-I am a full stack software developer and reverse engineer from New York who is interested in low level programming, memory manipulation, privacy, and security. 
+I am a full stack software developer and reverse engineer who is interested in low level programming, memory manipulation, privacy, and security. 
 
 * 🏢 I'm currently working at **[@sytradev](https://github.com/sytradev)**.
 * 💼 I'm a software developer, reverse engineer, systems administrator, and community manager.
