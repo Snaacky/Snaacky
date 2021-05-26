@@ -8,3 +8,5 @@ I am a full stack software developer and reverse engineer who is interested in l
 * 📫 I can be reached via email at **snaacky@pm.me** or Discord at **Snaacky#0001**.
 * ⚡ I'm regularly working in: `.py`, `.cs`, `.js`, `.htm`, and `.css`
 * 👯 I’m looking to collaborate on **[Obsidian](https://github.com/Snaacky/obsidian)**.
+
+![](https://github-readme-stats.vercel.app/api?username=snaacky&count_private=true&show_icons=true&theme=dark)
