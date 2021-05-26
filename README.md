@@ -16,7 +16,7 @@ I am a full stack software developer and reverse engineer who is interested in l
 </div>
 
 <div class="test">
-<img style="float: left" width="440" src="https://github-readme-stats.vercel.app/api?username=Snaacky&count_private=true&show_icons=true&theme=dark&hide_border=true">
-<img style="float: right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snaacky&theme=dark&hide_border=true">
+<img style="float: left" width="400" src="https://github-readme-stats.vercel.app/api?username=Snaacky&count_private=true&show_icons=true&theme=dark&hide_border=true">
+<img style="float: right" width="440" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snaacky&theme=dark&hide_border=true">
 
 </div>
