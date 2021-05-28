@@ -2,7 +2,7 @@
 
 I am a full stack software developer and reverse engineer who is interested in low level programming, privacy, and security. 
 
-<div class="test1">
+<div class="container">
   <ul>
     <li> 🏢 I'm currently working at <b><a href="https://github.com/sytradev">@sytradev</a></b>.
     <li>  💼 I'm a software developer, reverse engineer, systems administrator, and community manager.
@@ -12,5 +12,3 @@ I am a full stack software developer and reverse engineer who is interested in l
     <li>  👯 I’m looking to collaborate on <b><a href="https://github.com/Snaacky/obsidian">Obsidian</a></b>.
   </ul>
 </div>
-
-<img style="float: right" width="440" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=snaacky&theme=dark&hide_border=true&custom_title=Snaacky%27s%20Weekly%20Stats">
