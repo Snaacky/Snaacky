@@ -1,6 +1,6 @@
 <h3>👋 Ayo.</h3>
 
-I am a full stack software developer and reverse engineer who is interested in low level programming, memory manipulation, privacy, and security. 
+I am a full stack software developer and reverse engineer who is interested in low level programming, privacy, and security. 
 
 <div class="test1">
   <ul>
