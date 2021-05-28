@@ -1,5 +1,3 @@
-
-
 <h3>👋 Ayo.</h3>
 
 I am a full stack software developer and reverse engineer who is interested in low level programming, memory manipulation, privacy, and security. 
@@ -15,8 +13,3 @@ I am a full stack software developer and reverse engineer who is interested in l
   </ul>
 </div>
 
-<div class="test">
-<img style="float: left" width="400" src="https://github-readme-stats.vercel.app/api?username=Snaacky&count_private=true&show_icons=true&theme=dark&hide_border=true">
-<img style="float: right" width="440" height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=snaacky&theme=dark&hide_border=true&custom_title=Corey%27s%20Wakatime%20Stats">
-
-</div>
