@@ -13,3 +13,4 @@ I am a full stack software developer and reverse engineer who is interested in l
   </ul>
 </div>
 
+<img style="float: right" width="440" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=snaacky&theme=dark&hide_border=true&custom_title=Snaacky%27s%20Weekly%20Stats">
